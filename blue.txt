@@ -1,3 +1,4 @@
 blue
+added chrome
 added qa team
 added one more qa
